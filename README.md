@@ -46,7 +46,7 @@ web-scraping-and-apis/
 ## *Instalação*
 1. Clone o repositório:
    bash
-   git clone https://github.com/seu-usuario/web-scraping-and-apis.git
+   git clone https://github.com/dinhobc/web-scraping-and-apis.git
    cd web-scraping-and-apis
    
 
